@@ -18,6 +18,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) 
 
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-black?style=flat-square&logo=images/raspberry-pi-logo.png;base64,HIER_STÜNDE_DER_BASE64_CODE)
+![ESP32](https://img.shields.io/badge/ESP-32%20Pi-black?style=flat-square&logo=images/raspberry-pi-logo.png;base64,HIER_STÜNDE_DER_BASE64_CODE)
 
 # GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Clewit&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
