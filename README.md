@@ -19,9 +19,3 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) 
 ![ESP32](https://img.shields.io/badge/ESP_32%20-black?style=flat-square&logo=images/raspberry-pi-logo.png;base64,HIER_STÜNDE_DER_BASE64_CODE)
 
-<!--# GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Clewit&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Clewit&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Clewit&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)--!>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
