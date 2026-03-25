@@ -1,5 +1,5 @@
 #  About Me:
-👤 Alias: Jyio<br>🎉 Age: 17<br>🇦🇹 Location: Austria, Styria<br>🖥️ The Stack: Python, C, and C++ (mainly for microcontrollers)<br>➕ Interested in: Network tech / Homelabbing, Linux, Rust and microcontrollers (ESP32, Raspberry Pi, and Arduino)<br>🌱 Learning: Python libraries (httpx, Scapy, and socket)
+👤 Alias: Jyio<br>🎉 Age: 17<br>🇦🇹 Location: Austria, Styria<br>🖥️ The Stack: Python, C, and C++ (mainly for microcontrollers)<br>➕ Interested in: Homelabbing, Linux and microcontrollers<br>🌱 Learning: Python libraries (httpx, Scapy, and socket)
 
 
 # The Stack:
