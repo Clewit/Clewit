@@ -2,7 +2,7 @@
 👤 Alias: Jyio<br>🎉 Age: 17<br>🇦🇹 Location: Austria, Styria<br>🖥️ The Stack: Python, C, and C++ (mainly for microcontrollers)<br>➕ Interested in: Homelabbing, Linux and microcontrollers<br>🌱 Learning: Python libraries (httpx, Scapy, and socket)
 
 
-# The Stack:
+# Tech Stack:
 
 ## Languges
 
