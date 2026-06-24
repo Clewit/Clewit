@@ -17,7 +17,6 @@
 </p>
 
 ## Programming languages:
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,python" />
@@ -25,7 +24,6 @@
 </p>
 
 ## Web-Development:
-
 <p align="center">
   <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=react,tailwind,js,html,css" />
