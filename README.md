@@ -1,3 +1,7 @@
+<style>
+  h1, h2, h3 { border-bottom: none !important; }
+</style>
+
 # About Me:
 👤 Alias: Jyio
 <br>🎉 Age: 17<br>🇦🇹 Location: Austria, Styria
