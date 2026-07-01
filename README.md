@@ -5,8 +5,6 @@
 <br>➕ Interested in: Homelabbing, Web-Development and Cybersecurity
 <br>🌱 Learning: Python libraries (httpx, Scapy, and socket)
 
----
-
 # Tech Stack:
 ## Tools & Technologies:
 <p align="center">
