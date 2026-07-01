@@ -1,13 +1,11 @@
-
-
-# About Me:
+**About Me**:
 👤 Alias: Jyio
 <br>🎉 Age: 17<br>🇦🇹 Location: Austria, Styria
 <br>🖥️ Tech Stack: Python, C, and C++ (mainly for microcontrollers)
 <br>➕ Interested in: Homelabbing, Web-Development and Cybersecurity
 <br>🌱 Learning: Python libraries (httpx, Scapy, and socket)
 
-# Tech Stack:
+**Tech Stack**:
 ## Tools & Technologies:
 <p align="center">
   <a href="https://skillicons.dev">
