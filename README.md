@@ -19,10 +19,3 @@
     <img src="https://skillicons.dev/icons?i=c,cpp,python" />
   </a>
 </p>
-
-**Web-Development**:
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,tailwind,django,js,html,css" />
-  </a>
-</p>
