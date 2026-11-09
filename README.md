@@ -9,7 +9,7 @@
 **Tools & Technologies**:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,npm,git,bash,linux, cloudflare, " />
+    <img src="https://skillicons.dev/icons?i=docker,npm,git,bash,linux,cloudflare, " />
   </a>
 </p>
 
